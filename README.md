@@ -1,4 +1,4 @@
-![ToxicBomber](https://h.top4top.io/p_2611gbau61.jpg)
+![ToxicBomber- NHK](https://h.top4top.io/p_2611gbau61.jpg)
 <p align="center">Most Updated SMS Bomber For Bangladeshi Numbers</p>
 
 ## Note:
@@ -29,7 +29,7 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Toxic-Noob/ToxicBomber
+git clone (https://github.com/Naimulbari444/Naimulbari444.git)
 cd ToxicBomber
 python Tbomb.py
 ```
